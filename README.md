@@ -1,4 +1,4 @@
-# Poker-bot
+# AceHigh (Poker Bot)
 A game engine for texas holdem no limit with an AI computer player
 
 Goals for the project:
